@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi there 👋 I am Julian, your "strength-programmer"! I am a Computer Science Student with a passion for programming, AI!
+- 🔭 I’m currently working on finishing my CS50 course and getting certified through various online courses
+- 🌱 I’m currently learning AI Fundamentals, Machine Learning, Git, and Python
+- 👯 I’m looking to collaborate on Software Development
+- 🤔 I’m looking for help with being a great software developer and how to transition to the field of AI
+- 💬 Ask me about Programming, Concepts on AI Fundamentals, and Sports
+- 📫 How to reach me: Let's connect through linkedin by clicking on my profile => https://www.linkedin.com/in/julian-carl-o%C3%B1ate-953520280/ 
+- ⚡ Fun fact: I am a big movie buff and I am into lifting weights and strength training
 <!--
 **strength-programmer/strength-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
